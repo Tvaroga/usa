@@ -1,6 +1,5 @@
 # USA Road Trip — San Francisco → Los Angeles → Las Vegas
 
-**Travelers:** 3 (you, wife, 18-year-old daughter)
 **Car:** Chevrolet Equinox (or similar) — Thrifty
 **Pickup:** San Francisco Airport (SFO), 16 Aug 2026, 15:00
 **Return:** Las Vegas (McCarran) Airport (LAS), 28 Aug 2026, 20:00
@@ -15,7 +14,7 @@ SF (2 nights) → Yosemite (3) → Sequoia (1)
 → Los Angeles (3) → Las Vegas (3, incl. parks day trips) → fly home
 ```
 
-Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-heavy trip, but every leg has scenery. Because we go **inland through the Sierra parks**, we trade away the Big Sur coast drive (see "Trade-offs" at the bottom for how to swap).
+Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-heavy trip, but every leg has scenery. Because we go **inland through the Sierra parks**, we trade away the Big Sur coast[...]
 
 ---
 
@@ -48,7 +47,7 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 - **Overnight:** same.
 
 ### Day 5 — Thu 20 Aug · Yosemite high country (the day gained from Tahoe)
-- Drive **Tioga Road** east: **Tenaya Lake, Tuolumne Meadows, Olmsted Point** — alpine lakes and granite domes (swim at Tenaya Lake). This gets you the Tioga scenery you'd have seen from the Tahoe side.
+- Drive **Tioga Road** east: **Tenaya Lake, Tuolumne Meadows, Olmsted Point** — alpine lakes and granite domes (swim at Tenaya Lake). This gets you the Tioga scenery you'd have seen from the Tahoe s[...]
 - Alternatively: a bigger hike, the **Mariposa Grove** of giant sequoias, or a relaxed morning.
 - **Overnight:** same.
 
@@ -66,13 +65,13 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 - **Overnight:** Los Angeles.
 
 ### Day 9 — Mon 24 Aug · LA beaches + city
-- Beaches your friend loved: **Santa Monica, Hermosa, Malibu**; Venice boardwalk.
-- Plus Hollywood Walk of Fame, Griffith Observatory (great city + Hollywood sign view), or Beverly Hills / Rodeo Drive.
+- Beaches: **Santa Monica, Hermosa, Malibu**; Venice boardwalk.
+- Plus Hollywood Walk of Fame, Griffith Observatory (great city views), or Beverly Hills / Rodeo Drive.
 - **Overnight:** Los Angeles.
 
 ### Day 10 — Tue 25 Aug · LA → Las Vegas via Hoover Dam (~4.5–5 hrs, 440 km)
 - Drive through the Mojave Desert.
-- Detour to **Hoover Dam** (about 45 min from Vegas) — one of your friend's short-stop picks.
+- Detour to **Hoover Dam** (about 45 min from Vegas).
 - Evening: the **Las Vegas Strip** — Bellagio fountains, Fremont Street.
 - **Overnight:** Las Vegas.
 
@@ -84,11 +83,11 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 ### Day 12 — Thu 27 Aug · Grand Canyon (West) or free day + **Cirque du Soleil "O"**
 - **Grand Canyon West / Skywalk** (~2.5 hrs) is the doable day trip from Vegas. (The famous South Rim is ~4.5 hrs one-way — better as part of a longer eastern loop.)
 - Or keep it relaxed: pool day + shopping.
-- **Evening: Cirque du Soleil "O" at the Bellagio** — the water show you wanted. **Book this in advance** and schedule it for tonight (not the 28th) so the show doesn't clash with your car return.
+- **Evening: Cirque du Soleil "O" at the Bellagio** — a water show. **Book this in advance** and schedule it for tonight (not the 28th) so it doesn't clash with your car return.
 - **Overnight:** Las Vegas.
 
 ### Day 13 — Fri 28 Aug · Vegas shopping + departure
-- **Shopping** (friend's tip): Las Vegas North & South Premium Outlets, Forum Shops at Caesars, Grand Canal Shoppes.
+- **Shopping:** Las Vegas North & South Premium Outlets, Forum Shops at Caesars, Grand Canal Shoppes.
 - Late lunch, then **return car at LAS by 20:00**.
 
 ---
@@ -96,30 +95,30 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 ## Book these ahead (summer sells out)
 - **Universal Studios** tickets (+ Express pass if budget allows)
 - **Cirque du Soleil "O"** — pick a night that isn't your departure day
-- **Alcatraz** (if you want it) — often sold out weeks ahead
+- **Alcatraz** (if interested) — often sold out weeks ahead
 - **Yosemite lodging** — and check whether a **day-use/peak-hours reservation** is required for 2026
-- **Zion** — if you want to hike Angels Landing, it needs a **permit lottery** (the Narrows/Riverside Walk do not)
+- **Zion** — if interested in hiking Angels Landing, it needs a **permit lottery** (the Narrows/Riverside Walk do not)
 - Hotels in Yosemite/Sequoia gateway towns fill fast in August
 
 ## Driving & practical tips
-- Get an **unlimited-mileage** rate and confirm the one-way SFO→LAS drop-off is included (it is on your quote).
+- Get an **unlimited-mileage** rate and confirm the one-way SFO→LAS drop-off is included.
 - Buy the **America the Beautiful annual parks pass** ($80) — covers Yosemite, Sequoia, Zion, Grand Canyon and more; pays for itself here.
 - August is **very hot** in the desert (Vegas, Zion, Grand Canyon often 38–43 °C). Start hikes early, carry lots of water.
 - Download **offline maps** — cell coverage is patchy in the parks and desert.
-- Your daughter is 18 — old enough for all activities, but note the US **rental-car minimum age is usually 21** (often 25), so only you and your wife should be listed as drivers.
+- Note the US **rental-car minimum age is usually 21** (often 25).
 
 ---
 
 ## Trade-offs & options (worth deciding before you book)
 
-Your list is ambitious — here's the honest picture so you can prioritize:
+This itinerary is ambitious — here's the honest picture so you can prioritize:
 
-1. **Big Sur coast vs. Sierra parks.** You can't easily do both. This plan chooses Yosemite + Sequoia (your "nature/lakes/gorges" priority). If you'd rather do the **scenic Hwy 1 coast (SF → Big Sur → LA)**, we'd drop the Sierra parks and replace Days 3–7 with a 2–3 day coastal drive.
+1. **Big Sur coast vs. Sierra parks.** You can't easily do both. This plan chooses Yosemite + Sequoia (nature/lakes/gorges priority). If you'd rather do the **scenic Hwy 1 coast (SF → Big Sur[...]
 
-2. **The far eastern parks (Bryce, Grand Canyon South Rim, Horseshoe Bend/Page, Monument Valley).** These are **too far for day trips from Vegas** — your friend was right that Monument Valley would be "the farthest point." To include them you'd do a **2–3 night loop** out of Vegas (e.g., Zion → Bryce → Page/Horseshoe Bend → Grand Canyon South Rim), which means trimming one LA day (or a Yosemite day). Tell me if you want this version and I'll rebuild the Vegas section.
+2. **The far eastern parks (Bryce, Grand Canyon South Rim, Horseshoe Bend/Page, Monument Valley).** These are **too far for day trips from Vegas** — they would require a longer eastern loop.
 
-3. **Pace.** Still several 4-hour drive days. You've put the freed-up Tahoe day into Yosemite; if you later want it slower, the next easiest trim is one LA day.
+3. **Pace.** Still several 4-hour drive days. If you want a slower pace, the next easiest trim is one LA day.
 
 ---
 
-*Want me to adjust for the coast drive, add the eastern parks loop, or slow the pace? Say the word and I'll rework it.*
+*Want to adjust for the coast drive, add the eastern parks loop, or slow the pace?*
