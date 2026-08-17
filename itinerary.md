@@ -102,7 +102,7 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 
 ## Driving & practical tips
 - Get an **unlimited-mileage** rate and confirm the one-way SFO→LAS drop-off is included.
-- Buy the **America the Beautiful annual parks pass** ($250 at recreation.gov) — covers Yosemite, Sequoia, Zion, Grand Canyon and more. Available to international visitors; purchase online before arrival at https://www.recreation.gov/pass/
+- Buy the **America the Beautiful annual parks pass** ($250 at recreation.gov) — **one pass per vehicle covers all passengers**. Covers Yosemite, Sequoia, Zion, Grand Canyon and more. Available to international visitors; purchase online before arrival at https://www.recreation.gov/pass/
 - August is **very hot** in the desert (Vegas, Zion, Grand Canyon often 38–43 °C). Start hikes early, carry lots of water.
 - Download **offline maps** — cell coverage is patchy in the parks and desert.
 - Note the US **rental-car minimum age is usually 21** (often 25).
