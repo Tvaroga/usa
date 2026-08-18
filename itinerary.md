@@ -51,21 +51,6 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 - Alternatively: a bigger hike, the **Mariposa Grove** of giant sequoias, or a relaxed morning.
 - **Overnight:** same.
 
-## Yosemite National Park POIs from this itinerary
-- **Yosemite Valley**
-- **Tunnel View**
-- **Bridalveil Fall**
-- **Valley meadows**
-- **Glacier Point**
-- **El Capitan**
-- **Half Dome**
-- **Mist Trail**
-- **Tioga Road**
-- **Tenaya Lake**
-- **Tuolumne Meadows**
-- **Olmsted Point**
-- **Mariposa Grove**
-
 ### Day 6 — Fri 21 Aug · Yosemite → Sequoia & Kings Canyon (~4 hrs, 220 km)
 - **Giant sequoias** — the largest trees on Earth. See the **General Sherman Tree**, Giant Forest, and climb **Moro Rock** for the view.
 - **Overnight:** Three Rivers or Visalia.
@@ -104,6 +89,21 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 ### Day 13 — Fri 28 Aug · Vegas shopping + departure
 - **Shopping:** Las Vegas North & South Premium Outlets, Forum Shops at Caesars, Grand Canal Shoppes.
 - Late lunch, then **return car at LAS by 20:00**.
+
+## Yosemite National Park POIs from this itinerary
+- **Yosemite Valley**
+- **Tunnel View**
+- **Bridalveil Fall**
+- **Valley Meadows**
+- **Glacier Point**
+- **El Capitan**
+- **Half Dome**
+- **Mist Trail**
+- **Tioga Road**
+- **Tenaya Lake**
+- **Tuolumne Meadows**
+- **Olmsted Point**
+- **Mariposa Grove**
 
 ---
 
