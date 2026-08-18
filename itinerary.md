@@ -51,6 +51,21 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 - Alternatively: a bigger hike, the **Mariposa Grove** of giant sequoias, or a relaxed morning.
 - **Overnight:** same.
 
+## Yosemite National Park POIs from this itinerary
+- **Yosemite Valley**
+- **Tunnel View**
+- **Bridalveil Fall**
+- **Valley meadows**
+- **Glacier Point**
+- **El Capitan**
+- **Half Dome**
+- **Mist Trail**
+- **Tioga Road**
+- **Tenaya Lake**
+- **Tuolumne Meadows**
+- **Olmsted Point**
+- **Mariposa Grove**
+
 ### Day 6 — Fri 21 Aug · Yosemite → Sequoia & Kings Canyon (~4 hrs, 220 km)
 - **Giant sequoias** — the largest trees on Earth. See the **General Sherman Tree**, Giant Forest, and climb **Moro Rock** for the view.
 - **Overnight:** Three Rivers or Visalia.
