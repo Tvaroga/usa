@@ -90,6 +90,21 @@ Total driving is roughly **1,900–2,100 km (1,200–1,300 mi)**. It's a drive-h
 - **Shopping:** Las Vegas North & South Premium Outlets, Forum Shops at Caesars, Grand Canal Shoppes.
 - Late lunch, then **return car at LAS by 20:00**.
 
+## Yosemite National Park POIs from this itinerary
+- **Yosemite Valley**
+- **Tunnel View**
+- **Bridalveil Fall**
+- **Valley Meadows**
+- **Glacier Point**
+- **El Capitan**
+- **Half Dome**
+- **Mist Trail**
+- **Tioga Road**
+- **Tenaya Lake**
+- **Tuolumne Meadows**
+- **Olmsted Point**
+- **Mariposa Grove**
+
 ---
 
 ## Book these ahead (summer sells out)
